@@ -1,11 +1,23 @@
 @charset "utf-8";
 /* CSS Document */
 h1{
-	color:#F66489;
+	font-size:50px;
+	background-color: #3F65AE;
+	color:#C2FBF5;
+	width:91.5%;
 }
 h2{
-	color:#3F65AE;
+	font-size:11px;
+	color:#F66489;
+	margin-top:-6px;
+	margin-left:5px;
+	outline: 5px dotted #15C64D;
+	width:12.3%;
 }
 p{
+	font-size:14px;
+	background-color:#EE7F38;
 	color:#FDCF48;
+	width:32%;
+	margin-top:-32px;
 }
